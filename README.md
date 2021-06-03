@@ -1,6 +1,6 @@
 # FRC
 
-FRC is a MATLAB code for solving a Mixing Optimization Problem. 
+FRC is a MATLAB code for solving Mixing Optimization Problems in a 2D Box. 
 
 The Navier-Stokes solver is based on the solver presented in 'An Introduction to Scientific Computing' by Danaila, I., Joly, P., Kaber, S.M., Postel, M. 
 
